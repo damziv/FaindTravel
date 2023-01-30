@@ -1,7 +1,11 @@
 {
-  "name": "travelio",
-  "version": "0.1.0",
+  "name": "traveling",
+  "version": "1.0.0",
   "private": true,
+  "author": {
+    "name": "Andrés Bedoya",
+    "url": "https://srhart.co/"
+  },
   "scripts": {
     "dev": "next dev",
     "build": "next build",
