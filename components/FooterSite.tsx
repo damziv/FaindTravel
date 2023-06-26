@@ -3,7 +3,7 @@ import Link from 'next/link'
 export function FooterSite() {
   return (
     <footer className="container justify-center flex flex-col items-center w-full h-24 border-t sm:justify-between sm:flex-row sm:h-16">
-      <p className="text-xs sm:text-sm">Powered by <a href="https://openai.com/" target="_blank" rel="noreferrer" className="font-bold hover:underline transition underline-offset-2">OpenAI</a> - Made with <strong>&#60; &#47;&#62;</strong> and <span className="mr-1">&#127866;</span> in Colombia</p>
+      <p className="text-xs sm:text-sm">Powered by <a href="https://openai.com/" target="_blank" rel="noreferrer" className="font-bold hover:underline transition underline-offset-2">OpenAI</a></p>
       <div className="flex space-x-4 mt-2 sm:mt-0">
         <Link
           href="https://twitter.com/MonsieurHart"
